@@ -1,0 +1,17 @@
+.footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer a {
+  margin: 0 30px;
+  text-decoration: none;
+}
+
+.project-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+}
